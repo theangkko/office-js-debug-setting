@@ -35,10 +35,17 @@ npx office-addin-debugging start <your manifest path>
 ---
 
 ## Need to check useWebView : True
-check APPENDIX B requirement
-<img width="400" alt="image" src="https://github.com/theangkko/office-js-debug-setting/assets/75212211/b35d015d-8e00-4396-b9f7-b23f692acee2">
+check APPENDIX B requirement  // insert "useWebView": true"
+
+<img width="500" alt="image" src="https://github.com/theangkko/office-js-debug-setting/assets/75212211/961291a6-eaca-4c85-8f1a-964389444caa">
+
+<br>
+<br>
 
 
-<img width="550" alt="image" src="[https://github.com/theangkko/office-js-debug-setting/assets/75212211/e5089d5f-a014-4d89-926e-0c25fe6c91a4](https://github.com/theangkko/office-js-debug-setting/assets/75212211/bae08e64-0c48-4cfa-ae2a-ea72011192b1)">
 
+<img width="400" alt="image" src="https://github.com/theangkko/office-js-debug-setting/assets/75212211/db3fbc8c-f3b0-49bc-a0da-d11169c30988">
+
+
+<br><br><br><br><br><br>
 
